@@ -31,7 +31,6 @@ class AcePoke {
         console.log(`Dealt a hand: ${hand.join(', ')}`);
         return hand;
       } else {
-        console.log('Invalid number of cards to deal.');
         return [];
       }
     }
