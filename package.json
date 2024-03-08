@@ -1,6 +1,6 @@
 {
   "name": "ace-poke",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Ace poker",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "ganesh-list": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-list-vd": "1.0.0"
   },
   "author": "",
   "license": "ISC",
